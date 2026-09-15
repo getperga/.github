@@ -1,16 +1,22 @@
-<div align="center">
-  # Perga
+<h1 align="center">Perga</h1>
 
-  **A personal workspace for your notes, plans, and ideas.**
+<p align="center">
+  <strong>A personal workspace for your notes, plans, and ideas.</strong>
+  <br>
+  Capture searchable notes, organize your knowledge, and plan your days in one place.
+</p>
 
-  Capture searchable notes, organize your knowledge, and plan your days in one workspace.
+<p align="center">
+  <a href="https://demo.getperga.me/">Try the live demo</a> ·
+  <a href="https://getperga.me/signup/">Use Perga Cloud</a> ·
+  <a href="https://docs.getperga.me/docs/installation">Self-host Perga</a>
+</p>
 
-  [Try the live demo](https://demo.getperga.me/) · [Use Perga Cloud](https://getperga.me/signup/) · [Self-host Perga](https://docs.getperga.me/docs/installation)
-
-  [![License: MIT](https://img.shields.io/badge/license-MIT-2563eb.svg)](https://github.com/getperga/perga-api/blob/main/LICENSE)
-  [![API stars](https://img.shields.io/github/stars/getperga/perga-api?style=flat&label=API%20stars)](https://github.com/getperga/perga-api/stargazers)
-  [![Web stars](https://img.shields.io/github/stars/getperga/perga-web?style=flat&label=Web%20stars)](https://github.com/getperga/perga-web/stargazers)
-</div>
+<p align="center">
+  <a href="https://github.com/getperga/perga-api/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-2563eb.svg" alt="License: MIT"></a>
+  <a href="https://github.com/getperga/perga-api/stargazers"><img src="https://img.shields.io/github/stars/getperga/perga-api?style=flat&amp;label=API%20stars" alt="API stars"></a>
+  <a href="https://github.com/getperga/perga-web/stargazers"><img src="https://img.shields.io/github/stars/getperga/perga-web?style=flat&amp;label=Web%20stars" alt="Web stars"></a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/getperga/perga-web/main/docs/assets/notes_screenshot.png" alt="Perga notes" width="49%">
