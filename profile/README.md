@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://getperga.me/">
-    <img src="https://raw.githubusercontent.com/getperga/perga-web/main/public/logo.svg" alt="Perga" width="88" height="88">
-  </a>
-
   # Perga
 
   **A personal workspace for your notes, plans, and ideas.**
